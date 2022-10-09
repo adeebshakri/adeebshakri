@@ -65,4 +65,7 @@ input, textarea {
    .container.contact__container{
     width: var(--container-width-sm);
    }
+   .contact__options {
+    grid-template-columns: 1fr;
+   }
 }
