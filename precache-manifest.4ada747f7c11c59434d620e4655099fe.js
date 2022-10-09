@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e3e938b3a379434339f3",
-    "url": "/adeebshakri/static/css/main.fe08e1f5.chunk.css"
+    "revision": "193ec494b51dabb006dc",
+    "url": "/adeebshakri/static/css/main.4d5d3ea4.chunk.css"
   },
   {
-    "revision": "e3e938b3a379434339f3",
-    "url": "/adeebshakri/static/js/main.e3e938b3.chunk.js"
+    "revision": "193ec494b51dabb006dc",
+    "url": "/adeebshakri/static/js/main.193ec494.chunk.js"
   },
   {
     "revision": "07fb01a1dae44c8e0739",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/adeebshakri/static/media/bg-texture.2de04724.png"
   },
   {
-    "revision": "c2a933efcd8c3fcc819f04e971fd0d4e",
+    "revision": "6e88d59f866d7f979a7586fbaecd0d10",
     "url": "/adeebshakri/index.html"
   }
 ];
