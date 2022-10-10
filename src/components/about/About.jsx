@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css';
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me2.jpeg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -23,7 +23,7 @@ const About = () => {
               <h5>Experience</h5>
               <small>2+ Years Working</small>
             </article>
-            <article className='about__card'>
+            <article className='about__card' onClick={() => window.open("https://github.com/adeebshakri?tab=repositories", "_blank")}>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
               <small>Multiple Projects</small>
