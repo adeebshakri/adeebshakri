@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "151054196def41c56200",
+    "revision": "dfa04a198405eea5ace4",
     "url": "/adeebshakri/static/css/main.c2a50206.chunk.css"
   },
   {
-    "revision": "151054196def41c56200",
-    "url": "/adeebshakri/static/js/main.15105419.chunk.js"
+    "revision": "dfa04a198405eea5ace4",
+    "url": "/adeebshakri/static/js/main.dfa04a19.chunk.js"
   },
   {
     "revision": "ea049b9631cdf334b3f1",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/adeebshakri/static/js/runtime~main.92c4b30f.js"
   },
   {
-    "revision": "0963a443dd80662ff30b17b668508c76",
-    "url": "/adeebshakri/static/media/cv.0963a443.pdf"
+    "revision": "435320cb0f591e6b299fa31cc5bf8a5f",
+    "url": "/adeebshakri/static/media/Adeeb_s_resume_6_0.435320cb.pdf"
   },
   {
     "revision": "e43320560fe62200d9b78a0486bfed81",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/adeebshakri/static/media/bg-texture.2de04724.png"
   },
   {
-    "revision": "2ed6363da15ecea4576eadccb8f84ea4",
+    "revision": "9e6a35b1aa374b0dc4bf4b0a7e1c17d9",
     "url": "/adeebshakri/index.html"
   }
 ];
