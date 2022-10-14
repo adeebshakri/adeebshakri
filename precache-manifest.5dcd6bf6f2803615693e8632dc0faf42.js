@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/adeebshakri/static/media/bg-texture.2de04724.png"
   },
   {
-    "revision": "9e6a35b1aa374b0dc4bf4b0a7e1c17d9",
+    "revision": "46ba0996296dd26873220960f7c16198",
     "url": "/adeebshakri/index.html"
   }
 ];
