@@ -3,6 +3,7 @@ import './portfolios.css'
 import MY_PORTFOLIO from '../../assets/port_folio.png';
 import FILE_BACKUP from '../../assets/file_backup.png';
 import BOOK_MY_SHOW from '../../assets/bookmyshow.png';
+import ZLIPKART from '../../assets/zlipkart.png';
 
 const Portfolios = () => {
   return (
@@ -30,6 +31,17 @@ const Portfolios = () => {
           <div className="portfolio__item-cta">
           <a href='https://github.com/adeebshakri/Fullstack-project-file_backup_app_dummy' className='btn' target='_blank'>Github</a>
           <a href='https://github.com/adeebshakri/Fullstack-project-file_backup_app_dummy' target='_blank' className='btn btn-primary'>Live Demo</a>
+          </div>
+        </article>
+
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={ZLIPKART} alt=''/>
+          </div>
+          <h3>Zlipkart - e-commerce Project</h3>
+          <div className="portfolio__item-cta">
+          <a href='https://github.com/adeebshakri/zlipkart-e-commerce' className='btn' target='_blank'>Github</a>
+          <a href='https://github.com/adeebshakri/zlipkart-e-commerce' target='_blank' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>
 
