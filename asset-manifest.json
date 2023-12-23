@@ -1,13 +1,13 @@
 {
   "main.css": "/adeebshakri/static/css/main.922169b2.chunk.css",
-  "main.js": "/adeebshakri/static/js/main.651c2b87.chunk.js",
-  "main.js.map": "/adeebshakri/static/js/main.651c2b87.chunk.js.map",
+  "main.js": "/adeebshakri/static/js/main.86f62fe6.chunk.js",
+  "main.js.map": "/adeebshakri/static/js/main.86f62fe6.chunk.js.map",
   "static/css/1.9ad59f66.chunk.css": "/adeebshakri/static/css/1.9ad59f66.chunk.css",
   "static/js/1.d4c9714d.chunk.js": "/adeebshakri/static/js/1.d4c9714d.chunk.js",
   "static/js/1.d4c9714d.chunk.js.map": "/adeebshakri/static/js/1.d4c9714d.chunk.js.map",
   "runtime~main.js": "/adeebshakri/static/js/runtime~main.92c4b30f.js",
   "runtime~main.js.map": "/adeebshakri/static/js/runtime~main.92c4b30f.js.map",
-  "static/media/Adeeb_s_resume_7_0.pdf": "/adeebshakri/static/media/Adeeb_s_resume_7_0.c9f26510.pdf",
+  "static/media/Adeeb_s_resume_8_0.pdf": "/adeebshakri/static/media/Adeeb_s_resume_8_0.f16a2458.pdf",
   "static/media/me1.jpeg": "/adeebshakri/static/media/me1.e4332056.jpeg",
   "static/media/me2.jpeg": "/adeebshakri/static/media/me2.53ea90f4.jpeg",
   "static/media/port_folio.png": "/adeebshakri/static/media/port_folio.4d55d1da.png",
@@ -18,6 +18,6 @@
   "static/css/main.922169b2.chunk.css.map": "/adeebshakri/static/css/main.922169b2.chunk.css.map",
   "static/css/1.9ad59f66.chunk.css.map": "/adeebshakri/static/css/1.9ad59f66.chunk.css.map",
   "index.html": "/adeebshakri/index.html",
-  "precache-manifest.b9132b4b844195ec8867f9bd372ed37a.js": "/adeebshakri/precache-manifest.b9132b4b844195ec8867f9bd372ed37a.js",
+  "precache-manifest.ef95e83f35015ba33d9f97ae252764fd.js": "/adeebshakri/precache-manifest.ef95e83f35015ba33d9f97ae252764fd.js",
   "service-worker.js": "/adeebshakri/service-worker.js"
 }
