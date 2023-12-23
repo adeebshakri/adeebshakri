@@ -1,0 +1,5 @@
+Install node version 14.21.3
+On master branch:
+Make Changes > Commit > push
+Then to deploy, use:
+npm run build > npm run deploy
