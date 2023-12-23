@@ -1,5 +1,20 @@
 Install node version 14.21.3
 On master branch:
+To run:
+npm run start
+
 Make Changes > Commit > push
 Then to deploy, use:
 npm run build > npm run deploy
+
+If for some reason you loose out your changes needed to deploy, then do this(answered by chatgpt):
+In package.json:
+"homepage": "https://adeebshakri.github.io/adeebshakri/",
+"scripts": {
+  "deploy": "gh-pages -d build" // Adjust "build" to your build directory if needed
+}
+Run:
+npm install gh-pages --save-dev
+npm run build
+npm run deploy
+
